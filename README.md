@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Hao (prounounced as "how"). My pronouns are he/him. I was born in Ho Chi Minh City, Vietnam but I was raised in Seattle, Washington.
+
 <!--
 **HaoQLe/HaoQLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
